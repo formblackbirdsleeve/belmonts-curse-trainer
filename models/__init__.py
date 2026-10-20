@@ -1,0 +1,1 @@
+"""Game data models and offset tables."""
