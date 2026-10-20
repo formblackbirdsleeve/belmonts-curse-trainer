@@ -1,0 +1,8 @@
+# belmonts-curse-trainer runtime deps (Windows x64, Python 3.11+)
+pywin32==306
+pymem==1.12.2
+psutil==5.9.8
+PySide6==6.7.2
+keyboard==0.13.5
+requests==2.32.3
+tomli-w==1.0.0
